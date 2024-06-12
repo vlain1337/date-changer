@@ -2,7 +2,7 @@
 
 
 biar webshell lu lebih berkamuflase :>
-this changer only read backdoor/webshells extension so it will load faster, you can add specific extension in " $extensions = "
+this changer only read backdoor/webshells extension so it will read all files & load faster, you can add specific extension in " $extensions = "
 no logger & source code is open
 
 <img src="https://raw.githubusercontent.com/pwnsauce403/date-changer/main/Screenshot%20(41).png?raw=true" alt="alt text" width="600"/>
