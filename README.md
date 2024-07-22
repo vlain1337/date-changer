@@ -1,4 +1,4 @@
-# Last date modified/updated/uploaded Changer for your WebShell
+# Last date modified/updated/uploaded Changer
 
 
 biar webshell lu lebih berkamuflase :>
